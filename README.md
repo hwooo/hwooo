@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hwooo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hwooo&show_icons=true&theme=dark&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hwooo/hwooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
